@@ -1,0 +1,13 @@
+exifread
+numpy
+pandas
+notebook
+matplotlib
+opencv-python 
+scipy 
+scikit-learn
+ipython
+jupyterlab
+tqdm
+rawpy
+piexif
